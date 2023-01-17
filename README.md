@@ -2,7 +2,7 @@
 
 Machine learning models are increasingly prevalent in trajectory prediction and motion planning tasks for autonomous vehicles (AVs), therefore it is of a big importance to ensure that these models have robust and reliable predictions across a variety of scenarios. However, obtaining the data needed to evaluate and improve the robustness of these models can be difficult and expensive. 
 
-Waymo authors in the paper \textit{CausalAgents: A Robustness Benchmark for Motion Forecasting} propose a solution to this problem by perturbing existing data by removing certain agents from the scene, which allows them to evaluate and improve the models' robustness to spurious features. In this work, we will focus on the labelling process of these solution, and try to build a classifier that can label an agent as causal or non-causal the ego agent in piedestrian trajectory scene.
+Waymo authors in the paper _CausalAgents: A Robustness Benchmark for Motion Forecasting_ propose a solution to this problem by perturbing existing data by removing certain agents from the scene, which allows them to evaluate and improve the models' robustness to spurious features. In this work, we will focus on the labelling process of these solution, and try to build a classifier that can label an agent as causal or non-causal the ego agent in piedestrian trajectory scene.
 
 ## Generate the Data file
 
