@@ -13,7 +13,7 @@ Our work has been done on the synth_v1.a.filtered.pkl file from the precedent re
 
 ## Recreate the results
 
-To recreate the results of the report, you can follow the documented notebook. The notebook also contains every implementation guidelines you need to use this codebase.
+To recreate the results of the report, you can follow the documented "train_test_models" notebook. The notebook also contains every implementation guidelines you need to use this codebase.
 
 ## Requirements
 Make sure that the following libraries are installed :
