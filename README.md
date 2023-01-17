@@ -1,1 +1,3 @@
-# causal_detector_vitalab
+# Causal detector : detecting causal agent in a simulated piedestrian trajectory
+
+## Generate the Data file
