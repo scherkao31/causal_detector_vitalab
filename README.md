@@ -13,4 +13,4 @@ Our work has been done on the synth_v1.a.filtered.pkl file from the precedent re
 
 ## Recreate the results
 
-To recreate the results of the report, you only have to follow the documented notebook.
+To recreate the results of the report, you can follow the documented notebook. The notebook also contains every implementation guidelines you need to use this codebase.
